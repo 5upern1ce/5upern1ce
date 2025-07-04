@@ -4,6 +4,7 @@
 
 > “The flow of time is always cruel... its speed seems different for each person, but no one can change it... A thing that does not change with time is a memory of younger days...” — Sheik
 
-     ▲   🎮  **Favourite Game:** The Legend of Zelda: Ocarina of Time
-    ▲ ▲  🏆  **Achievement Unlocked:** Hylia's Chosen Hero
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▲ 🎮 **Favourite Game:** The Legend of Zelda: Ocarina of Time  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲ ▲ 🏆 **Achievement Unlocked:** Hylia's Chosen Hero
+
 
