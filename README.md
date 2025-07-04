@@ -55,5 +55,5 @@
 
 <br/>
 
-> ### *"Yes, very good. I no longer dream, but I was once a hunter too. There's nothing more horrific than a hunt. In case you fail to realise, the things you hunt -- they're not beasts, they're people. One day you will see.."* 
+> ### *"I no longer dream, but I was once a hunter too. There's nothing more horrific than a hunt. In case you fail to realise, the things you hunt -- they're not beasts, they're people. One day you will see.."* 
 > ### — **The Retired Hunter, Djura**
