@@ -91,7 +91,7 @@ In a moment of extreme boredom, I decided to create a spreadsheet to keep track 
 | **Storage** | 2TB HDD (Harvested from old PC) |
 | **Storage** | 3TB HDD (Harvested from old PC) |
 | **Motherboard** | [Gigabyte B550M K](https://www.gigabyte.com/Motherboard/B550M-K-rev-10#kf) |
-| **Power Supply** | [650W 80+ Bronze](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/650w-80-bronze-certified-psu/p/CP-90201041-NA) |
+| **Power Supply** | [650W 80+ Bronze](https://www.novatech.co.uk/products/corsair-cx-series-cx650-650w-80-plus-bronze-atx-power-supply/cp-9020278-uk.html) |
 
 ### 🖱️ **Peripherals:**
 
@@ -99,7 +99,7 @@ In a moment of extreme boredom, I decided to create a spreadsheet to keep track 
 |--------|---------------|
 | **Monitor** | [23.8" 165Hz 1080p](https://www.amazon.co.uk/ASUS-Gaming-1080P-Monitor-VG247Q1A/dp/B0997NRZ3F/ref=asc_df_B0997NRZ3F?mcid=5fdc820613783aa99c8f21e99f59d57c&hvocijid=6371826395334187326-B0997NRZ3F-&hvexpln=74&tag=googshopuk-21&linkCode=df0&hvadid=696285193871&hvpos=&hvnetw=g&hvrand=6371826395334187326&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046506&hvtargid=pla-2281435176618&gad_source=1&th=1) |
 | **Monitor** | 19" 1080p 75Hz (FB Marketplace find) |
-| **Mouse** | [Glorious Model O-](https://www.pcgamingrace.com/products/glorious-model-o-ultra-light-gaming-mouse) |
+| **Mouse** | [Glorious Model O-](https://www.amazon.co.uk/Glorious-PC-Gaming-Race-Gaming-Maus/dp/B07VMM5LKH/ref=asc_df_B07VMM5LKH?mcid=b0e0414e952538c99505b17e46b0abfe&hvocijid=16967873701500563631-B07VMM5LKH-&hvexpln=74&tag=googshopuk-21&linkCode=df0&hvadid=696285193871&hvpos=&hvnetw=g&hvrand=16967873701500563631&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046506&hvtargid=pla-2281435176938&gad_source=1&th=1) |
 | **Headset** | [Razer Kraken Kitty V2 BT](https://www.razer.com/gaming-headsets/razer-kraken-kitty-v2) |
 
 ### 🎮 **Consoles:**
@@ -125,11 +125,11 @@ In a moment of extreme boredom, I decided to create a spreadsheet to keep track 
 I am a college student in England doing a [T-Level](https://www.tlevels.gov.uk/students/subjects/digital-production-design-development) course in Digital Production, Design and Development. I have a strong grip on Python and am in the midst of learning quite a few other languages and frameworks, including:
 
 #### 🔧 **Languages & Frameworks:**
-- **TypeScript** (Svelte)
-- **C#** (.NET Core)
-- **Go** (Golang, Gin)
-- **C** (Game decompilation)
-- **C++** (Game decompilation)
+- **TypeScript** ([Svelte](https://svelte.dev/))
+- **C#** ([ASP .NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet))
+- **Go** ([Golang](https://golang.org/), [Gin](https://gin-gonic.com/))
+- **C** ([Game decompilation](https://zelda.deco.mp))
+- **C++** ([Game decompilation](https://zelda.deco.mp))
 
 <br/>
 
