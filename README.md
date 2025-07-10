@@ -4,7 +4,7 @@
 
 ## 🚀 **My Steam Status**
 
-[![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561198408915854&show_in_game_bg=true&show_recent_game_bg=true)](https://steamcommunity.com/id/5upern1ce/)
+[![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198408915854>&show_in_game_bg=true&show_recent_game_bg=false)](https://steamcommunity.com/id/5upern1ce/)
 
 <br/>
 
