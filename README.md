@@ -3,7 +3,7 @@
 <br/>
 
 ## 🚀 **My Steam Status**
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198408915854&show_recent_game_bg=true"/>
+
 [![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561198408915854)](https://steamcommunity.com/id/5upern1ce/)
 
 <br/>
@@ -153,6 +153,7 @@ I am very passionate about game development but also software development in gen
 
 #### 🚀 **My Role:**
 We work together very well and have a lot of fun doing it! Within the group, my part is mainly focused on API's and backend development, but I also do some frontend work. My dedication to mostly Golang at the moment makes me the most efficient at API's, though. So that's mostly my part! I am starting to get much better at understanding the quirks of HTTP and Cookies.
+
 
 
 
