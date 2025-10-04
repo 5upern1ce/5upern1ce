@@ -154,6 +154,10 @@ I am very passionate about game development but also software development in gen
 #### 🚀 **My Role:**
 We work together very well and have a lot of fun doing it! Within the group, my part is mainly focused on API's and backend development, but I also do some frontend work. My dedication to mostly Golang at the moment makes me the most efficient at API's, though. So that's mostly my part! I am starting to get much better at understanding the quirks of HTTP and Cookies.
 
+#### 🔗 **Quick Links:**
+- [LeetCode](https://leetcode.com/u/supern_ice/)
+
+
 
 
 
