@@ -157,6 +157,10 @@ Gorgeous profile picture made by fellow Aucheri member [Sion](https://github.com
 
 
 
+#### 🔗 **Quick Links:**
+- [LeetCode](https://leetcode.com/u/supern_ice/)
+
+
 
 
 
